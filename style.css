@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#home {
+    text-align: center;
+}
+
+.mynavbar {
+    position: sticky;
+    z-index: 1000;
+    top: 0;
+}
+
